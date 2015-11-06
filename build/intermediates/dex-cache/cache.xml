@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nburn42/.gradle/caches/modules-2/files-2.1/com.firebase/geofire/1.1.1/aaddc090eaef03c8ca29baeac71d928fa9caf9d4/geofire-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aaddc090eaef03c8ca29baeac71d928fa9caf9d4">
+        <dex dex="/home/nburn42/Projects/CrimsonFist/app/build/intermediates/pre-dexed/debug/geofire-1.1.1-732b2df1689e9b09b31d4a98c35eba9c622e82a0.jar" />
+    </item>
+
+</items>

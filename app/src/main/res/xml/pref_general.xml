@@ -1,0 +1,47 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference android:title="Agg Assault"
+        android:defaultValue="true"
+        android:summary=""
+        android:key="aggassault" />
+
+    <CheckBoxPreference android:title="Auto Theft"
+        android:defaultValue="true"
+        android:summary=""
+        android:key="autotheft" />
+
+    <CheckBoxPreference android:title="Burglary"
+        android:defaultValue="true"
+        android:summary=""
+        android:key="burglary" />
+
+    <CheckBoxPreference android:title="Homicide"
+        android:defaultValue="true"
+        android:summary=""
+        android:key="homicide" />
+
+    <CheckBoxPreference android:title="Larceny"
+        android:defaultValue="true"
+        android:summary=""
+        android:key="larceny" />
+
+    <CheckBoxPreference android:title="Rape"
+        android:defaultValue="true"
+        android:summary=""
+        android:key="rape" />
+
+    <CheckBoxPreference android:title="Robbery"
+        android:defaultValue="true"
+        android:summary=""
+        android:key="robbery" />
+
+    <!--<ListPreference-->
+        <!--android:key="dayofweek"-->
+        <!--android:title="Day Of Week"-->
+        <!--android:defaultValue="-1"-->
+        <!--android:entries="@array/days"-->
+        <!--android:entryValues="@array/hours"-->
+        <!--android:negativeButtonText="@null"-->
+        <!--android:positiveButtonText="@null" />-->
+
+</PreferenceScreen>
